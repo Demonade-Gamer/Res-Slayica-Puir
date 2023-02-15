@@ -1804,13 +1804,13 @@ assimilation_chance = {
 #EQUALITY NATIONAL VALUE BONUS - 50% more base assimilation rate for nations with the equality national value. (0.000198 + base)(new rate = 0.000594)
 	group = {
 		modifier = {
-			factor = 5
+			factor = 3.5
 			country = {
 				nationalvalue = nv_equality
 			}
 		}
 		modifier = {
-			factor = -4.95
+			factor = -3.45
 			has_culture_core = no
 			country = {
 				nationalvalue = nv_equality
