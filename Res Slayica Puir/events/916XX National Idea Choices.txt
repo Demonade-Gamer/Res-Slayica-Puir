@@ -161,7 +161,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+20% Army Organisation"
+		name = "+10% Army Organisation"
 		owner = { set_country_flag = choosing_army_organisation }
 		ai_chance = {
 			factor = 10
@@ -221,7 +221,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+2 Monthly Leadership"
+		name = "+1.5 Monthly Leadership"
 		owner = { set_country_flag = choosing_leadership }
 		ai_chance = {
 			factor = 10
@@ -233,7 +233,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+0.3 Monthly Prestige"
+		name = "+0.1 Monthly Prestige"
 		owner = { set_country_flag = choosing_prestige }
 		ai_chance = {
 			factor = 0
@@ -272,7 +272,7 @@ province_event = {
 	}
 
 	option = {
-		name = "-0.03 Infamy Decay"
+		name = "-0.05 Infamy Decay"
 		owner = { set_country_flag = choosing_expansion }
 		ai_chance = {
 			factor = 10
@@ -360,7 +360,7 @@ province_event = {
 	}
 
 	option = {
-		name = "-0.03 POP Militancy Modifier"
+		name = "-0.05 POP Militancy Modifier"
 		owner = { set_country_flag = choosing_domestic }
 		ai_chance = {
 			factor = 0
@@ -398,7 +398,7 @@ province_event = {
 	}
 
 	option = {
-		name = "-0.03 POP Militancy Modifier"
+		name = "-0.05 POP Militancy Modifier"
 		owner = { set_country_flag = choosing_domestic }
 		ai_chance = {
 			factor = 0
@@ -418,7 +418,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+20% Army Organisation"
+		name = "+10% Army Organisation"
 		owner = { set_country_flag = choosing_army_organisation }
 		ai_chance = {
 			factor = 10
@@ -478,7 +478,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+2 Monthly Leadership"
+		name = "+1.5 Monthly Leadership"
 		owner = { set_country_flag = choosing_leadership }
 		ai_chance = {
 			factor = 10
@@ -490,7 +490,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+0.3 Monthly Prestige"
+		name = "+0.1 Monthly Prestige"
 		owner = { set_country_flag = choosing_prestige }
 		ai_chance = {
 			factor = 0
@@ -529,7 +529,7 @@ province_event = {
 	}
 
 	option = {
-		name = "-0.03 Infamy Decay"
+		name = "-0.05 Infamy Decay"
 		owner = { set_country_flag = choosing_expansion }
 		ai_chance = {
 			factor = 10
@@ -647,7 +647,7 @@ province_event = {
 	}
 
 	option = {
-		name = "-0.03 POP Militancy Modifier"
+		name = "-0.05 POP Militancy Modifier"
 		owner = { set_country_flag = choosing_domestic }
 		ai_chance = {
 			factor = 0
@@ -667,7 +667,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+20% Army Organisation"
+		name = "+10% Army Organisation"
 		owner = { set_country_flag = choosing_army_organisation }
 		ai_chance = {
 			factor = 10
@@ -727,7 +727,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+2 Monthly Leadership"
+		name = "+1.5 Monthly Leadership"
 		owner = { set_country_flag = choosing_leadership }
 		ai_chance = {
 			factor = 10
@@ -739,7 +739,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+0.3 Monthly Prestige"
+		name = "+0.1 Monthly Prestige"
 		owner = { set_country_flag = choosing_prestige }
 		ai_chance = {
 			factor = 0
@@ -778,7 +778,7 @@ province_event = {
 	}
 
 	option = {
-		name = "-0.03 Infamy Decay"
+		name = "-0.05 Infamy Decay"
 		owner = { set_country_flag = choosing_expansion }
 		ai_chance = {
 			factor = 10
@@ -896,7 +896,7 @@ province_event = {
 	}
 
 	option = {
-		name = "-0.03 POP Militancy Modifier"
+		name = "-0.05 POP Militancy Modifier"
 		owner = { set_country_flag = choosing_domestic }
 		ai_chance = {
 			factor = 0
@@ -916,7 +916,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+20% Army Organisation"
+		name = "+10% Army Organisation"
 		owner = { set_country_flag = choosing_army_organisation }
 		ai_chance = {
 			factor = 10
@@ -976,7 +976,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+2 Monthly Leadership"
+		name = "+1.5 Monthly Leadership"
 		owner = { set_country_flag = choosing_leadership }
 		ai_chance = {
 			factor = 10
@@ -988,7 +988,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+0.3 Monthly Prestige"
+		name = "+0.1 Monthly Prestige"
 		owner = { set_country_flag = choosing_prestige }
 		ai_chance = {
 			factor = 0
@@ -1027,7 +1027,7 @@ province_event = {
 	}
 
 	option = {
-		name = "-0.03 Infamy Decay"
+		name = "-0.05 Infamy Decay"
 		owner = { set_country_flag = choosing_expansion }
 		ai_chance = {
 			factor = 10
@@ -1145,7 +1145,7 @@ province_event = {
 	}
 
 	option = {
-		name = "-0.03 POP Militancy Modifier"
+		name = "-0.05 POP Militancy Modifier"
 		owner = { set_country_flag = choosing_domestic }
 		ai_chance = {
 			factor = 0
@@ -1165,7 +1165,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+20% Army Organisation"
+		name = "+10% Army Organisation"
 		owner = { set_country_flag = choosing_army_organisation }
 		ai_chance = {
 			factor = 10
@@ -1225,7 +1225,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+2 Monthly Leadership"
+		name = "+1.5 Monthly Leadership"
 		owner = { set_country_flag = choosing_leadership }
 		ai_chance = {
 			factor = 10
@@ -1237,7 +1237,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+0.3 Monthly Prestige"
+		name = "+0.1 Monthly Prestige"
 		owner = { set_country_flag = choosing_prestige }
 		ai_chance = {
 			factor = 0
@@ -1276,7 +1276,7 @@ province_event = {
 	}
 
 	option = {
-		name = "-0.03 Infamy Decay"
+		name = "-0.05 Infamy Decay"
 		owner = { set_country_flag = choosing_expansion }
 		ai_chance = {
 			factor = 10
@@ -1399,7 +1399,7 @@ country_event = {
 
 country_event = {
 	id = 91652
-	title = "+20% Army Organisation"
+	title = "+10% Army Organisation"
 	desc = "We already have this national idea."
 	picture = national_idea_choice
 
@@ -1504,7 +1504,7 @@ country_event = {
 
 country_event = {
 	id = 91657
-	title = "+2 Monthly Leadership"
+	title = "+1.5 Monthly Leadership"
 	desc = "We already have this national idea."
 	picture = national_idea_choice
 
@@ -1525,7 +1525,7 @@ country_event = {
 
 country_event = {
 	id = 91658
-	title = "+0.3 Monthly Prestige"
+	title = "+0.1 Monthly Prestige"
 	desc = "We already have this national idea."
 	picture = national_idea_choice
 
@@ -1588,7 +1588,7 @@ country_event = {
 
 country_event = {
 	id = 91661
-	title = "-0.03 Infamy Decay"
+	title = "-0.05 Infamy Decay"
 	desc = "We already have this national idea."
 	picture = national_idea_choice
 

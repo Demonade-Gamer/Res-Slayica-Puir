@@ -1,5 +1,5 @@
 nv_order = {
-	org_regain = 0.05
+	org_regain = 0.1
 }
 
 nv_liberty = {
