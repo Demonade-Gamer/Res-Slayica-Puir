@@ -1,0 +1,173 @@
+#Leaders
+leader = {
+	name = "Mohammed Shah Qajar"
+	date = 1834.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.5
+}
+
+army = {
+	name = "Army of Persia"
+	location = 1121
+	regiment = {
+		name= "1. Savaran-e Saltanati"
+		type = hussar
+		home = 1121
+	}
+
+	regiment = {
+		name= "1. Zamburakchi"
+		type = artillery
+		home = 1147
+	}
+
+	regiment = {
+		name= "2. Zamburakchi"
+		type = artillery
+		home = 1145
+	}
+
+	regiment = {
+		name= "3. Zamburakchi"
+		type = artillery
+		home = 1114
+	}
+
+	regiment = {
+		name= "4. Zamburakchi"
+		type = artillery
+		home = 1121
+	}
+
+	regiment = {
+		name= "5. Zamburakchi"
+		type = artillery
+		home = 1148
+	}
+
+	regiment = {
+		name= "1. Bakhsh-i Piyadenizam"
+		type = infantry
+		home = 1127
+	}
+
+	regiment = {
+		name= "2. Bakhsh-i Piyadenizam"
+		type = infantry
+		home = 1135
+	}
+
+	regiment = {
+		name= "3. Bakhsh-i Piyadenizam"
+		type = infantry
+		home = 1137
+	}
+
+	regiment = {
+		name= "4. Bakhsh-i Piyadenizam"
+		type = infantry
+		home = 1125
+	}
+}
+
+army = {
+	location = 1149
+	name = "Eastern Army of Persia"
+	regiment = {
+		name= "2. Savaran-e Saltanati"
+		type = hussar
+		home = 1117
+	}
+
+	regiment = {
+		name= "6. Zamburakchi"
+		type = artillery
+		home = 1135
+	}
+
+	regiment = {
+		name= "7. Zamburakchi"
+		type = artillery
+		home = 1108
+	}
+
+	regiment = {
+		name= "8. Zamburakchi"
+		type = artillery
+		home = 1150
+	}
+
+	regiment = {
+		name= "9. Zamburakchi"
+		type = artillery
+		home = 1111
+	}
+
+	regiment = {
+		name= "10. Zamburakchi"
+		type = artillery
+		home = 1113
+	}
+
+	regiment = {
+		name= "5. Bakhsh-i Piyadenizam"
+		type = infantry
+		home = 1124
+	}
+
+	regiment = {
+		name= "6. Bakhsh-i Piyadenizam"
+		type = infantry
+		home = 1117
+	}
+
+	regiment = {
+		name= "7. Bakhsh-i Piyadenizam"
+		type = infantry
+		home = 1122
+	}
+
+	regiment = {
+		name= "8. Bakhsh-i Piyadenizam"
+		type = infantry
+		home = 1129
+	}
+
+}
+
+army = {
+	location = 1137
+	name = "Southern Army of Persia"
+
+	regiment = {
+		name= "1. Savaran-e Sepah-e"
+		type = cuirassier
+		home = 1150
+	}
+
+	regiment = {
+		name= "2. Savaran-e Sepah-e"
+		type = cuirassier
+		home = 1117
+	}
+
+	regiment = {
+		name= "3. Savaran-e Sepah-e"
+		type = cuirassier
+		home = 1127
+	}
+
+	regiment = {
+		name= "4. Savaran-e Sepah-e"
+		type = cuirassier
+		home = 1135
+	}
+
+	regiment = {
+		name= "5. Savaran-e Sepah-e"
+		type = cuirassier
+		home = 1140
+	}			
+}
