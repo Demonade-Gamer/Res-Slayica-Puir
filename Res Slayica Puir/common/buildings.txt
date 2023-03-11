@@ -9,19 +9,7 @@
 # time = x #==> number of days to build.
 #
 
-province_selector = {
-	type = province_selector
-	goods_cost =
-	{
-	}
-	time = 1
-	visibility = no
-	onmap = no
-	max_level = 2
-	province = yes
-	one_per_state = yes
-	
-}
+
 
 ############# LATE GAME FACTORIES
 
@@ -711,6 +699,20 @@ fertilizer_factory = {
 	pop_build_factory = yes
 }
 
+province_selector = {
+	type = province_selector
+	goods_cost =
+	{
+	}
+	time = 1
+	visibility = no
+	onmap = no
+	max_level = 2
+	province = yes
+	one_per_state = yes
+	
+}
+
 fort = {      
 	type = fort
 	cost = 400
@@ -728,6 +730,28 @@ fort = {
 	max_level = 6
 	province = yes
 	fort_level = 1
+}
+
+railroad = {   
+	type = infrastructure
+	cost = 500
+	goods_cost =
+	{
+		lumber = 200
+		cement = 100
+		steel = 100
+	}
+	time = 720
+	visibility = yes
+	onmap = yes
+	max_level = 6
+	province = yes
+	
+	infrastructure = 0.16
+	movement_cost = -0.05
+	
+	pop_build_factory = yes
+	spawn_railway_track = yes
 }
 
 naval_base = {    
@@ -753,25 +777,4 @@ naval_base = {
 	one_per_state = yes
 	colonial_range = 50
 	local_ship_build = -0.05
-}
-       
-railroad = {   
-	type = infrastructure
-	goods_cost =
-	{
-		lumber = 200
-		cement = 100
-		steel = 100
-	}
-	time = 720
-	visibility = yes
-	onmap = yes
-	max_level = 6
-	province = yes
-	
-	infrastructure = 0.16
-	movement_cost = -0.05
-	
-	pop_build_factory = yes
-	spawn_railway_track = yes
 }
