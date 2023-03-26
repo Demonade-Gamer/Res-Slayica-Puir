@@ -241,7 +241,7 @@ political_decisions = {
 			war = no
 			OR = {
 				#revanchism = 0.01
-				year = 1870
+				year = 1865
 				AND = {
 					NOT = {	exists = HES }
 					NOT = {	exists = HEK }

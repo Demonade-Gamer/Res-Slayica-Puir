@@ -1,0 +1,5 @@
+#### 1.2 CHANGES ####
+Halved the lit gained from lit campaigns
+Got rid of Ukrainian Breadbasket
+Made (guaranteed) NGF happen 5 years earlier
+Gave the Netherlands Wallonian accepted

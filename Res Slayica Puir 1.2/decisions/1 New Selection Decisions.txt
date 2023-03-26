@@ -138,7 +138,7 @@ zdismantle_supply_depot = {
 							literacy = 0.6
 							NOT = { literacy = 0.8 }
 						}
-						literacy = 0.04
+						literacy = 0.02
 					}
 					any_pop = {
 						limit = {
@@ -152,13 +152,13 @@ zdismantle_supply_depot = {
 							literacy = 0.2
 							NOT = { literacy = 0.4 }
 						}
-						literacy = 0.08
+						literacy = 0.04
 					}
 					any_pop = {
 						limit = {
 							NOT = { literacy = 0.2 }
 						}
-						literacy = 0.1
+						literacy = 0.05
 					}
 					any_owned = {
 						add_province_modifier = {
@@ -244,7 +244,7 @@ zdismantle_supply_depot = {
 						limit = {
 							NOT = { literacy = 0.2 }
 						}
-						literacy = 0.1
+						literacy = 0.05
 					}
 					any_owned = {
 						add_province_modifier = {
@@ -330,7 +330,7 @@ zdismantle_supply_depot = {
 						limit = {
 							NOT = { literacy = 0.2 }
 						}
-						literacy = 0.1
+						literacy = 0.05
 					}
 					any_owned = {
 						add_province_modifier = {
@@ -416,7 +416,7 @@ zdismantle_supply_depot = {
 						limit = {
 							NOT = { literacy = 0.2 }
 						}
-						literacy = 0.1
+						literacy = 0.05
 					}
 					any_owned = {
 						add_province_modifier = {
@@ -502,7 +502,7 @@ zdismantle_supply_depot = {
 						limit = {
 							NOT = { literacy = 0.2 }
 						}
-						literacy = 0.1
+						literacy = 0.05
 					}
 					any_owned = {
 						add_province_modifier = {
@@ -588,7 +588,7 @@ zdismantle_supply_depot = {
 						limit = {
 							NOT = { literacy = 0.2 }
 						}
-						literacy = 0.1
+						literacy = 0.05
 					}
 					any_owned = {
 						add_province_modifier = {
@@ -674,7 +674,7 @@ zdismantle_supply_depot = {
 						limit = {
 							NOT = { literacy = 0.2 }
 						}
-						literacy = 0.1
+						literacy = 0.05
 					}
 					any_owned = {
 						add_province_modifier = {
@@ -760,7 +760,7 @@ zdismantle_supply_depot = {
 						limit = {
 							NOT = { literacy = 0.2 }
 						}
-						literacy = 0.1
+						literacy = 0.05
 					}
 					any_owned = {
 						add_province_modifier = {
@@ -846,7 +846,7 @@ zdismantle_supply_depot = {
 						limit = {
 							NOT = { literacy = 0.2 }
 						}
-						literacy = 0.1
+						literacy = 0.05
 					}
 					any_owned = {
 						add_province_modifier = {
@@ -932,7 +932,7 @@ zdismantle_supply_depot = {
 						limit = {
 							NOT = { literacy = 0.2 }
 						}
-						literacy = 0.1
+						literacy = 0.05
 					}
 					any_owned = {
 						add_province_modifier = {
@@ -1018,7 +1018,7 @@ zdismantle_supply_depot = {
 						limit = {
 							NOT = { literacy = 0.2 }
 						}
-						literacy = 0.1
+						literacy = 0.05
 					}
 					any_owned = {
 						add_province_modifier = {
@@ -1104,7 +1104,7 @@ zdismantle_supply_depot = {
 						limit = {
 							NOT = { literacy = 0.2 }
 						}
-						literacy = 0.1
+						literacy = 0.05
 					}
 					any_owned = {
 						add_province_modifier = {
@@ -1190,7 +1190,7 @@ zdismantle_supply_depot = {
 						limit = {
 							NOT = { literacy = 0.2 }
 						}
-						literacy = 0.1
+						literacy = 0.05
 					}
 					any_owned = {
 						add_province_modifier = {
@@ -1276,7 +1276,7 @@ zdismantle_supply_depot = {
 						limit = {
 							NOT = { literacy = 0.2 }
 						}
-						literacy = 0.1
+						literacy = 0.05
 					}
 					any_owned = {
 						add_province_modifier = {
@@ -1362,7 +1362,7 @@ zdismantle_supply_depot = {
 						limit = {
 							NOT = { literacy = 0.2 }
 						}
-						literacy = 0.1
+						literacy = 0.05
 					}
 					any_owned = {
 						add_province_modifier = {
@@ -1449,7 +1449,7 @@ zdismantle_supply_depot = {
 						limit = {
 							NOT = { literacy = 0.2 }
 						}
-						literacy = 0.1
+						literacy = 0.05
 					}
 					any_owned = {
 						add_province_modifier = {
@@ -1536,7 +1536,7 @@ zdismantle_supply_depot = {
 						limit = {
 							NOT = { literacy = 0.2 }
 						}
-						literacy = 0.1
+						literacy = 0.05
 					}
 					any_owned = {
 						add_province_modifier = {
@@ -1593,7 +1593,7 @@ zdismantle_supply_depot = {
 						limit = {
 							literacy = 0.8
 						}
-						literacy = 0.02
+						literacy = 0.01
 					}
 					any_pop = {
 						limit = {
@@ -1607,7 +1607,7 @@ zdismantle_supply_depot = {
 							literacy = 0.4
 							NOT = { literacy = 0.6 }
 						}
-						literacy = 0.06
+						literacy = 0.03
 					}
 					any_pop = {
 						limit = {
@@ -1620,7 +1620,7 @@ zdismantle_supply_depot = {
 						limit = {
 							NOT = { literacy = 0.2 }
 						}
-						literacy = 0.1
+						literacy = 0.05
 					}
 					any_owned = {
 						add_province_modifier = {
