@@ -541,7 +541,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+0.04 Assimilation Chance & +25% Rate"
+		name = "+25% Assimilation Rate"
 		owner = {  set_country_flag = choosing_assimilation }
 		ai_chance = {
 			factor = 10
@@ -703,7 +703,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+15% Army Experience"
+		name = "+10% Army Experience"
 		owner = { set_country_flag = choosing_army_experience }
 		ai_chance = {
 			factor = 10
@@ -790,7 +790,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+0.04 Assimilation Chance & +25% Rate"
+		name = "+25% Assimilation Rate"
 		owner = {  set_country_flag = choosing_assimilation }
 		ai_chance = {
 			factor = 10
@@ -952,7 +952,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+15% Army Experience"
+		name = "+10% Army Experience"
 		owner = { set_country_flag = choosing_army_experience }
 		ai_chance = {
 			factor = 10
@@ -1039,7 +1039,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+0.04 Assimilation Chance & +25% Rate"
+		name = "+25% Assimilation Rate"
 		owner = {  set_country_flag = choosing_assimilation }
 		ai_chance = {
 			factor = 10
@@ -1201,7 +1201,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+15% Army Experience"
+		name = "+10% Army Experience"
 		owner = { set_country_flag = choosing_army_experience }
 		ai_chance = {
 			factor = 10
@@ -1288,7 +1288,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+0.04 Assimilation Chance & +25% Rate"
+		name = "+25% Assimilation Rate"
 		owner = {  set_country_flag = choosing_assimilation }
 		ai_chance = {
 			factor = 10
@@ -1462,7 +1462,7 @@ country_event = {
 
 country_event = {
 	id = 91655
-	title = "+15% Army Experience"
+	title = "+10% Army Experience"
 	desc = "We already have this national idea."
 	picture = national_idea_choice
 
@@ -1609,7 +1609,7 @@ country_event = {
 
 country_event = {
 	id = 91662
-	title = "+0.04 Assimilation Chance & +25% Rate"
+	title = "+25% Assimilation Rate"
 	desc = "We already have this national idea."
 	picture = national_idea_choice
 
