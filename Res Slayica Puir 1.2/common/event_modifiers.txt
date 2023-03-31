@@ -1286,7 +1286,7 @@ literacy_campaign = {
 }
 
 army_morale_idea = {
-	org_regain = 0.3
+	org_regain = 0.25
 	icon = 15
 }
 
@@ -1372,7 +1372,7 @@ education_idea = {
 }
 
 domestic_idea = {
-	global_pop_militancy_modifier = -0.03
+	global_pop_militancy_modifier = -0.05
 	icon = 15
 }
 supply_depot = {
